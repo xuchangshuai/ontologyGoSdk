@@ -1,4 +1,4 @@
-module github.com/ontio/ontology-go-sdk
+module github.com/xuchangshuai/ontologyGoSdk
 
 go 1.16
 
