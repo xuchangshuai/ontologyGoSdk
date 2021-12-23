@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ontio/ontology-go-sdk/utils"
+	"github.com/xuchangshuai/ontologyGoSdk/utils"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/ontio/ontology/common"

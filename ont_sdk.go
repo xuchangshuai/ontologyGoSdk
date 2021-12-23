@@ -29,14 +29,14 @@ import (
 	"time"
 
 	"github.com/ontio/go-bip32"
-	"github.com/ontio/ontology-go-sdk/bip44"
+	"github.com/xuchangshuai/ontologyGoSdk/bip44"
 	"github.com/ontio/ontology/smartcontract/event"
 	"github.com/tyler-smith/go-bip39"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology-go-sdk/client"
-	sdkcom "github.com/ontio/ontology-go-sdk/common"
-	"github.com/ontio/ontology-go-sdk/utils"
+	"github.com/xuchangshuai/ontologyGoSdk/client"
+	sdkcom "github.com/xuchangshuai/ontologyGoSdk/common"
+	"github.com/xuchangshuai/ontologyGoSdk/utils"
 	"github.com/ontio/ontology/common"
 	"github.com/ontio/ontology/common/constants"
 	"github.com/ontio/ontology/core/payload"

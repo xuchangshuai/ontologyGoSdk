@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	sdkcom "github.com/ontio/ontology-go-sdk/common"
+	sdkcom "github.com/xuchangshuai/ontologyGoSdk/common"
 	utils2 "github.com/ontio/ontology/cmd/utils"
 	"github.com/ontio/ontology/common"
 	"github.com/ontio/ontology/core/payload"

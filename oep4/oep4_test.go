@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	ontology_go_sdk "github.com/ontio/ontology-go-sdk"
-	"github.com/ontio/ontology-go-sdk/utils"
+	ontology_go_sdk "github.com/xuchangshuai/ontologyGoSdk"
+	"github.com/xuchangshuai/ontologyGoSdk/utils"
 	"github.com/ontio/ontology/common"
 	"github.com/ontio/ontology/core/types"
 )

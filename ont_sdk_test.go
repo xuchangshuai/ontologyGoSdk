@@ -29,7 +29,7 @@ import (
 	"github.com/ontio/ontology/core/payload"
 
 	"github.com/ontio/ontology-crypto/signature"
-	sdkcom "github.com/ontio/ontology-go-sdk/common"
+	sdkcom "github.com/xuchangshuai/ontologyGoSdk/common"
 	"github.com/ontio/ontology/common"
 	"github.com/ontio/ontology/core/utils"
 	"github.com/ontio/ontology/core/validation"

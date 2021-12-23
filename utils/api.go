@@ -23,7 +23,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	sdkcom "github.com/ontio/ontology-go-sdk/common"
+	sdkcom "github.com/xuchangshuai/ontologyGoSdk/common"
 	"github.com/ontio/ontology/common"
 	"github.com/ontio/ontology/core/payload"
 	"github.com/ontio/ontology/core/types"

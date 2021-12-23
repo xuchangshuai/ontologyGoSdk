@@ -24,8 +24,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	sdkcom "github.com/ontio/ontology-go-sdk/common"
-	"github.com/ontio/ontology-go-sdk/utils"
+	sdkcom "github.com/xuchangshuai/ontologyGoSdk/common"
+	"github.com/xuchangshuai/ontologyGoSdk/utils"
 	"github.com/ontio/ontology/common"
 	"github.com/ontio/ontology/core/payload"
 	"github.com/ontio/ontology/core/types"

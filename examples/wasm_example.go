@@ -23,8 +23,8 @@ import (
 	"io/ioutil"
 	"time"
 
-	sdk "github.com/ontio/ontology-go-sdk"
-	"github.com/ontio/ontology-go-sdk/utils"
+	sdk "github.com/xuchangshuai/ontologyGoSdk"
+	"github.com/xuchangshuai/ontologyGoSdk/utils"
 	"github.com/ontio/ontology/common"
 )
 

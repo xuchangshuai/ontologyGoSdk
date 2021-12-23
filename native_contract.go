@@ -22,8 +22,8 @@ import (
 	"math/big"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	sdkcom "github.com/ontio/ontology-go-sdk/common"
-	"github.com/ontio/ontology-go-sdk/utils"
+	sdkcom "github.com/xuchangshuai/ontologyGoSdk/common"
+	"github.com/xuchangshuai/ontologyGoSdk/utils"
 	"github.com/ontio/ontology/account"
 	"github.com/ontio/ontology/common"
 	"github.com/ontio/ontology/core/types"
